@@ -12,7 +12,7 @@ document.querySelector("#app").innerHTML = `
       <textarea>I am a textarea</textarea>
     </div>
     <div class="preview">
-      <iframe src="loading.html"></iframe>
+      <iframe src="/loading.html"></iframe>
     </div>
   </div>
   <div class="terminal"></div>
